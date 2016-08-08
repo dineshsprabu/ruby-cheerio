@@ -1,2 +1,1 @@
-# ruby-cheerio
-Ruby Cheerio - jQuery styled HTML parser
+#Ruby Cheerio - jQuery styled HTML parser
