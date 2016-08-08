@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Dineshprabu S"]
   s.email       = 'dineshsprabu@gmail.com'
   s.files       = ["lib/ruby-cheerio.rb"]
-  s.homepage    = 'http://rubygems.org/gems/ruby-cheerio'
+  s.homepage    = 'https://github.com/dineshsprabu/ruby-cheerio'
   s.license     = 'MIT'
 end
