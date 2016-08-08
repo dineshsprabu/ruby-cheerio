@@ -1,4 +1,6 @@
-require 'nokogiri' # Nokogiri is 
+# Dependent GEM
+require 'nokogiri' 
+
 
 class RubyCheerio
 
@@ -9,6 +11,7 @@ class RubyCheerio
 
 	# This method defines the instance of a RubyCheerio object with attributes 
 	# like text, html and if an argument is not passed, it throws an ArgumentError
+	
 	def initialize html=nil
 		if valid_args? html
 			if html.instance_of? Nokogiri::HTML::Document
