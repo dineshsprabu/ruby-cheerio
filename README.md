@@ -47,3 +47,4 @@ p jQuery.find('h1.one')[0].prop('h1','class')
 
 ```
 
+You can find some interesting sample code here: [Sample Code](tree/master/sample_code)
