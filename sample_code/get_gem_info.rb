@@ -1,11 +1,11 @@
 
-## Disclaimer: This is code should be used only for educational puroposes.
+## Disclaimer: This code should be used only for educational puroposes.
 ## Author: Dineshprabu S
 
 require 'ruby-cheerio' # 'gem install ruby-cheerio' for using this.
 require 'rest-client' # 'gem install rest-client' for using this.
 
-## getGemInfo return the a consolidated hash of gems with name, version, download_count
+## getGemInfo returns a consolidated hash of gems with name, version, download_count
 ## using RubyCheerio jQuery style HTML Parser.
 
 def getGemInfo page_no
