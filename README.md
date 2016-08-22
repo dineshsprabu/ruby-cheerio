@@ -1,5 +1,6 @@
 #Ruby Cheerio - jQuery styled HTML parser
 
+Visit the published gem page at [rubygems.org](https://rubygems.org/gems/ruby-cheerio) 
 
 ##Installing the GEM
  
