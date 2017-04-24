@@ -1,15 +1,15 @@
-#Ruby Cheerio - jQuery styled HTML parser
+# Ruby Cheerio - jQuery styled HTML parser
 
 Visit the published gem page at [rubygems.org](https://rubygems.org/gems/ruby-cheerio) 
 
-##Installing the GEM
+## Installing the GEM
  
 Use 'gem install ruby-cheerio' for adding it to your gem-list
 
 You can add 'gem ruby-cheerio' to your Gemfile and run 'bundle install'.
 
 
-##Sample Code
+## Sample Code
 
 
 
