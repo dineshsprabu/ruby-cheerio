@@ -1,4 +1,4 @@
-# Ruby Cheerio - jQuery styled HTML parser
+# Ruby Cheerio - jQuery style HTML parser for ruby
 
 Visit the published gem page at [rubygems.org](https://rubygems.org/gems/ruby-cheerio) 
 
@@ -21,7 +21,7 @@ require 'ruby-cheerio'
 
 ```
 
-jQuery is just a variable name here, This can be anything based on your requirement.
+jQuery is just a variable here.
 
 ```ruby
 
@@ -30,7 +30,7 @@ jQuery = RubyCheerio.new("<html><body><h1 class='one'>h1_1</h1><h1>h1_2</h1></bo
 
 ```
 
-The .find method on a cheerio object can be passed with 'selectors' which can be a class, id, element name or all together.
+The .find method on a cheerio object with 'selectors', which can be a class, id, element name or all together.
 
 ```ruby
 
@@ -40,7 +40,7 @@ end
 
 ```
 
-The .prop method can return the value of the attribute being passed. Here 'class' is the attribute needed and 'h1' is the selector again.
+The .prop method can return the value of the attribute. Here 'class' is the attribute needed and 'h1' is the selector again.
 
 ```ruby
 
